@@ -1,0 +1,15 @@
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\bin\Debug\net6.0\BooleanFunctionFunction.exe
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\bin\Debug\net6.0\BooleanFunctionFunction.deps.json
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\bin\Debug\net6.0\BooleanFunctionFunction.runtimeconfig.json
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\bin\Debug\net6.0\BooleanFunctionFunction.dll
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\bin\Debug\net6.0\BooleanFunctionFunction.pdb
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.csproj.AssemblyReference.cache
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.AssemblyInfoInputs.cache
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.AssemblyInfo.cs
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.csproj.CoreCompileInputs.cache
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.dll
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\refint\BooleanFunctionFunction.dll
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.pdb
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\BooleanFunctionFunction.genruntimeconfig.cache
+C:\Users\rotem\Desktop\Programming\C# .NET\BooleanFunctionFunction\obj\Debug\net6.0\ref\BooleanFunctionFunction.dll
